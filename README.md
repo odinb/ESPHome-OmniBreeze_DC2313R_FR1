@@ -2,7 +2,7 @@
 
 For hardware used, see here: <br /> [Costco OmniBreeze]([https://www.costco.com/p/-/omnibreeze-tower-fan-with-internal-oscillation-and-wi-fi/4000230757](https://manuals.plus/m/f299da9d8b7156e83251e5034d1b58032552d9876ac7544473ea7cca1ee75738)) <br />
 
-For manual, see here: <br /> [OmniBreeze Tower Fan - Owner's ManualCostco OmniBreeze](https://www.costco.com/p/-/omnibreeze-tower-fan-with-internal-oscillation-and-wi-fi/4000230757) <br />
+For manual, see here: <br /> [OmniBreeze Tower Fan - Owner's ManualCostco OmniBreeze]([https://www.costco.com/p/-/omnibreeze-tower-fan-with-internal-oscillation-and-wi-fi/4000230757](https://manuals.plus/m/f299da9d8b7156e83251e5034d1b58032552d9876ac7544473ea7cca1ee75738)) <br />
 
 These fans currently come in 2 variants, based around the Beken chip FCM242D (BK7238).
 They can be run with an online plugin like the Landbook-HA: https://github.com/zackwag/landbook-ha
