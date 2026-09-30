@@ -18,7 +18,7 @@ Costco OmniBreeze DC2313R FR-1 V1.0 (2025 batch) TinyLibre ESPHome: https://gith
 Local control is much snappier than any of the cloud-integrations, and the TinyLibre implementation above is my chosen implementation.<br />
 It works great!
 
-For the TinyLibre implementation above, I have chosen to modify the yaml a bit, see file above.
+For the TinyLibre implementation above, I have chosen to modify the yaml a bit, see attached yaml-file above.
 
 When flashing using the ESPHome python version from command-line, it can be tricky to get the flash to kick in, but just be patient/stubborn, it will eventually work!
 
