@@ -23,7 +23,7 @@ When flashing using the ESPHome python version from command-line, it can be tric
 This is run with Home-assistant: https://www.home-assistant.io/ <br />
 and the ESPHome integration: https://esphome.io/
 
-Other variants/implementations:
+Other variants/implementations:<br />
 Costco OmniBreeze DC2205-WiFi V1.3 (2023 batch) ESPHome: https://github.com/phdindota/Omnibreeze-esphome
 
 Costco OmniBreeze DC2205-WiFi V1.3 (2023 batch) OpenBeken: https://github.com/surshis/OpenBekenCostcoFan
