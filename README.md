@@ -15,7 +15,7 @@ Costco OmniBreeze DC2313R FR-1 V1.0 (2025 batch) OpenBeken: https://github.com/T
 
 Costco OmniBreeze DC2313R FR-1 V1.0 (2025 batch) TinyLibre ESPHome: https://github.com/MrNRod/OmniBreeze-Fan-ESPHome-LibreTiny
 
-Local control is much snappier than any of the cloud-integrations, and the TinyLibre implementation above is my chosen implementation.
+Local control is much snappier than any of the cloud-integrations, and the TinyLibre implementation above is my chosen implementation.<br />
 It works great!
 
 For the TinyLibre implementation above, I have chosen to modify the yaml a bit, see file above.
