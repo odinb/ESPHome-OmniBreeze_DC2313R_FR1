@@ -13,7 +13,7 @@ Costco OmniBreeze DC2313R FR-1 V1.0 (2025 batch) TinyLibre ESPHome: https://gith
 <br />
 <br />
 Local control is much snappier than any of the cloud-integrations, and the TinyLibre implementation is my chosen implementation.<br />
-It works great!
+It works great! Thanks MrNRod!
 
 For the TinyLibre implementation above, I have chosen to modify the yaml a bit, see attached yaml-file above.
 
