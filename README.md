@@ -1,6 +1,6 @@
 # ESPHome OmniBreeze DC2313R FR-1 V1.0.
 
-For hardware used, see here: <br /> [https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html](https://www.costco.com/p/-/omnibreeze-tower-fan-with-internal-oscillation-and-wi-fi/4000230757) <br />
+For hardware used, see here: <br /> [Costco OmniBreeze](https://www.costco.com/p/-/omnibreeze-tower-fan-with-internal-oscillation-and-wi-fi/4000230757) <br />
 
 These fans currently come in 2 variants, based around the Beken chip FCM242D (BK7238).
 They can be run with an online plugin like the Landbook-HA: https://github.com/zackwag/landbook-ha
