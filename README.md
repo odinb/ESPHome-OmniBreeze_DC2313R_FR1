@@ -5,7 +5,7 @@ For hardware used, see here: <br /> [Costco OmniBreeze](https://www.costco.com/p
 These fans currently come in 2 variants, based around the Beken chip FCM242D (BK7238).
 They can be run with an online plugin like the Landbook-HA: https://github.com/zackwag/landbook-ha
 
-They can also be flashed to run fiully offline. For this, I have found 4 projects, 2 for the old fan, and 2 for the newer.
+They can also be flashed to run filly offline. For this, I have found 4 projects, 2 for the old fan, and 2 for the newer.
 
 Costco OmniBreeze DC2205-WiFi V1.3 (2023 batch) ESPHome: https://github.com/phdindota/Omnibreeze-esphome
 
